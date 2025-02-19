@@ -1,0 +1,108 @@
+Subject: Formal Request for Cyber Incident Report - Case of Monroe County, Indiana - BlackSuit Attack - 2023-2024
+
+To: [Recipient Name/Title/Department]
+
+Dear [Recipient Name],
+
+This email constitutes a formal request for a comprehensive cyber incident report regarding the incident identified as [Incident Tracking Number or Brief Description, e.g., "Malware Infection on Server X" or "Phishing Campaign Targeting HR"].  
+This request is inclusive of both government generated data, well as 3rd parrty contractor data related to the incident.
+
+Please provide the report as soon as possible, and no later than [Date/Time].
+
+The report should comply with CSIA CRR reporting guidance and include the following information, formatted clearly and concisely:
+
+I. Executive Summary: (Briefly summarize the incident, its impact, and key findings.)
+
+II. Basic Information:
+
+Name of responsible Organization:
+Name of individual or entity that generated the report:
+Date of report:
+Tracking or control number:
+Incident Priority statement:
+Incident Type description: (e.g., Malware Infection, Denial of Service, Phishing, Data Breach)
+Incident Classification/Categorization: (e.g., NIST, ISO 27001)
+Incident description notes:
+
+III. Incident Timeline:
+Date and time when the incident was discovered:
+Date and time when the incident was reported:
+Date and time when the incident occurred:
+Additional timeline details:
+
+IV. Incident Scope:
+Estimated quantity of systems affected:
+Estimated quantity of users affected:
+Third parties involved or affected (e.g., vendors, contractors, partners):
+
+V. Systems Affected by the Incident:
+Attack sources including Indicators of Compromise (IOCs) (e.g., IP address, port):
+Attack destinations including IOCs:
+IP addresses of the affected systems:
+Primary functions of the affected systems (e.g., web server, domain controller):
+Operating systems of the affected systems (e.g., version, service pack, patch level, configuration):
+Security software loaded on the affected systems (e.g., anti-virus, anti-spyware, firewall, versions, date of latest definitions):
+Physical location of the affected systems (e.g., state, city, building, room, desk):
+
+VI. Users Affected by the Incident:
+Names and job titles of the affected users:
+System access levels or rights of the affected user (e.g., regular user, domain administrator, root):
+
+VII. Incident Handling Log:
+Actions taken to identify the affected resources:
+Actions taken to contain the incident: (e.g., isolating affected systems, blocking IP addresses)
+Actions taken to eradicate the threat: (e.g., malware removal, patching vulnerabilities)
+Actions taken to recover systems and data: (e.g., from backups, rebuilding systems) - Include RTOs and RPOs
+Actions planned to prevent similar incidents:
+
+VIII. Incident Report Generation Details:
+If incident report was system generated:
+Software package:
+Host ID and location:
+If an incident report was submitted by an individual:
+Full name:
+Job title:
+Business unit:
+Work phone:
+Email address:
+
+IX. Incident POC Contact Information:
+Full name:
+Job title:
+Business unit:
+Work phone:
+Mobile phone:
+
+X. Impact Assessment:
+Financial Impact: (Estimated costs)
+Reputational Impact: (Potential damage)
+Operational Impact: (Disruption to business operations)
+Legal and Regulatory Impact: (Potential violations)
+
+XI. Root Cause Analysis: (Detailed explanation of why the incident occurred. Include contributing factors.)
+
+XII. Lessons Learned: (Actionable recommendations to prevent future incidents.)
+
+XIII. Evidence Preservation: (Details about data collection, chain of custody, and storage.)
+
+XIV. Communication Plan: (Who was notified and how.)
+
+XV. Metrics and Trends: (Relevant metrics and trends related to incidents.)
+
+XVI. Supporting Documentation: (List of supporting documents)
+
+XVII. Data Classification: (Classification of the report itself - e.g., Confidential, Restricted)
+
+XVIII. Attack Vector: (How the attack was carried out - e.g., Phishing, Exploit, Brute-force)
+
+XIX. Vulnerability Exploited: (If applicable, what vulnerability was exploited - e.g., CVE identifier)
+
+XX. Compromise Indicators: (Beyond IOCs, other indicators of compromise - e.g., unusual process activity)
+
+XXI. Physical Location of Affected Systems: (State, city, building, room, desk)
+
+Please let me know if you require any further clarification or information.  Thank you for your prompt attention to this matter.
+
+Sincerely,
+
+[Your Name/Title]
