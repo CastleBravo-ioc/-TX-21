@@ -1,0 +1,110 @@
+\### Name of responsible Organization
+
+\### Name of individual or entity that generated the report
+
+\### Date of report
+
+\### Tracking or control number
+
+\### Incident Priority statement
+
+\### Incident Type description
+
+\### Incident description notes
+
+\### Incident Timeline
+
+\### All details regarding:
+
+``Date and time when the incident was discovered
+
+``Date and time when the incident was reported
+
+``Date and time when the incident occurred
+
+``Additional timeline details:
+
+``Incident Scope
+
+``Estimated quantity of systems affected
+
+``Estimated quantity of users affected
+
+``Third parties involved or affected (e.g., vendors, contractors,
+partners)
+
+\### All details regarding:
+
+``Systems Affected by the Incident
+
+``Attack sources including Indicators of Compromise (IOCs)(e.g., IP
+address, port)
+
+``Attack destinations including IOCs
+
+``IP addresses of the affected systems
+
+``Primary functions of the affected systems (e.g., web server, domain
+controller)
+
+``Operating systems of the affected systems (e.g., version, service
+pack, patch level, configuration)
+
+``Security software loaded on the affected systems (e.g., anti-virus,
+anti-spyware, firewall, versions, date of latest definitions)
+
+``Physical location of the affected systems (e.g., state, city,
+building, room, desk):
+
+\### All details regarding:
+
+``Users Affected by the Incident
+
+``Names and job titles of the affected users
+
+``System access levels or rights of the affected user (e.g., regular
+user, domain administrator, root)
+
+\### All details regarding:
+
+``Incident Handling Log
+
+``Actions taken to identify the affected resources
+
+``Actions taken to remediate the incident
+
+``Actions planned to prevent similar incidents
+
+\### All details regarding:
+
+``If incident report was system generated--
+
+``Software package
+
+``Host ID and location
+
+``If an incident report was submitted by an individual--
+
+``Full name
+
+``Job title
+
+``Business unit
+
+``Work phone
+
+``Email address
+
+\### Incident POC Contact Information:
+
+``Full name
+
+``Job title
+
+``Business unit
+
+``Work phone
+
+``Mobile phone
+
+``Physical location of affected systems
