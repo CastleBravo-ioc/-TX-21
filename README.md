@@ -1,2 +1,2 @@
-# -TX-21
+# TX-21
 IOC indicators in various formats 
